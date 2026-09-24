@@ -433,7 +433,7 @@ http://localhost:8081/TechCart/
 Screenshots will be added here after capturing the final application screens.
 
 ### Home Page
-
+ 
 ![TechCart Home Page](screenshots/home.png)
 
 ### Seller Registration
